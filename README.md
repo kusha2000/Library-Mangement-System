@@ -2,41 +2,46 @@
 
 This is a comprehensive library management system developed in Java using NetBeans. It provides a robust set of features to manage library operations efficiently. 
 
-Technologies Used
+<h3>Technologies Used</h3>
 <ul>
-<li>Java: Core programming language for implementing the system's logic.</li>
-<li>NetBeans IDE: Integrated development environment used for designing the application and managing the project.</li>
-<li>Swing: Java library used for creating the graphical user interface.</li>
-<li>JDBC: Java Database Connectivity used for database operations.</li>
+🔹 Java<br>
+🔹 NetBeans IDE<br>
+🔹 Swing<br>
+🔹 MySQL<br>
 </ul>
 
 <h3>Features</h3>
-
-User Authentication:
 <ul>
-<li>Login: Users must log in to access the system.</li>
-<li>Sign Up: New users can create an account.</li>
-<li>Password Recovery: Users can recover their password by answering security questions set during registration.</li>
+
+<li><b>User Authentication:</b></li><br>
+<ul>
+✅ Login: Users must log in to access the system.<br>
+✅ Sign Up: New users can create an account.<br>
+✅ Password Recovery: Users can recover their password by answering security questions set during registration.<br><br>
 </ul>
-Student Management:<br><br>
+<li><b>Student Management:</b></li><br>
 <ul>
-<li>Add New Students: Administrators can add new student records to the system.</li>
+✅ Add New Students: Administrators can add new student records to the system.<br><br>
 
-</ul>
-
-Book Management:
-<ul>
-<li>Add New Books: Administrators can add new books to the library catalog.</li>
-<li>Issue Books: The system can issue books to students, recording all necessary details.</li>
-<li>Return Books: The system records details when books are returned by students.</li>
-<li>Transaction History: The system maintains full details of all issued and returned books.</li>
 </ul>
 
+<li><b>Book Management:</b></li><br>
+<ul>
+✅ Add New Books: Administrators can add new books to the library catalog.<br>
+✅ Issue Books: The system can issue books to students, recording all necessary details.<br>
+✅ Return Books: The system records details when books are returned by students.<br>
+✅ Transaction History: The system maintains full details of all issued and returned books.<br>
+</ul>
+</ul>
 
 
 <h2>This is the Full Demo of the project</h2><br><br>
 
-![Demo](https://github.com/user-attachments/assets/30e15ec8-2957-4232-a99a-cbbb908d9a8c)
+
+
+https://github.com/user-attachments/assets/618ad776-c05e-42c0-aa2d-9488fe30fa84
+
+
 
 
 <br><br>
